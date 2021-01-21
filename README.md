@@ -28,4 +28,4 @@ I graduated from the College of Computer and Communication Engineering of China 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=realkimmy&show_icons=true&hide_border=true)
 
-⭐️ From [upcwangying](https://github.com/realkimmy)
+⭐️ From [kimmy](https://github.com/realkimmy)
