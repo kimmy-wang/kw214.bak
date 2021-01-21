@@ -1,12 +1,12 @@
-## Hello World! <img src="https://raw.githubusercontent.com/upcwangying/upcwangying/master/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/realkimmy/realkimmy/master/Hi.gif" width="30px"></h2>
 
-<a href="https://github.com/upcwangying">
+<a href="https://github.com/realkimmy">
   <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=upcwangying.upcwangying)
+### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=realkimmy.realkimmy)
 
 I graduated from the College of Computer and Communication Engineering of China University of Petroleum 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
@@ -22,10 +22,10 @@ I graduated from the College of Computer and Communication Engineering of China 
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upcwangying&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realkimmy&layout=compact)
 
 ### Show some ❤️ by starring some of the repositories!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=upcwangying&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=realkimmy&show_icons=true&hide_border=true)
 
-⭐️ From [upcwangying](https://github.com/upcwangying)
+⭐️ From [upcwangying](https://github.com/realkimmy)
