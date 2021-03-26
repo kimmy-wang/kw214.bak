@@ -1,7 +1,7 @@
-## Hello World! <img src="https://raw.githubusercontent.com/realkimmy/realkimmy/master/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/realkimmy/realkimmy/master/Hi.gif" width="30px" />
 
 <a href="https://github.com/realkimmy">
-  <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Kimmy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
