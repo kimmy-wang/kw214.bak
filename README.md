@@ -1,6 +1,6 @@
-## Hello World! <img src="https://raw.githubusercontent.com/realkimmy/realkimmy/master/Hi.gif" width="30px" />
+## Hello World! <img src="https://raw.githubusercontent.com/see/see/master/Hi.gif" width="30px" />
 
-<a href="https://github.com/realkimmy">
+<a href="https://github.com/see">
   <img align="left" alt="Kimmy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -22,10 +22,10 @@ I graduated from the College of Computer and Communication Engineering of China 
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realkimmy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see&layout=compact)
 
 ### Show some ❤️ by starring some of the repositories!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=realkimmy&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=see&show_icons=true&hide_border=true)
 
-⭐️ From [kimmy](https://github.com/realkimmy)
+⭐️ From [kimmy](https://github.com/see)
