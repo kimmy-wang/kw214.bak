@@ -15,10 +15,10 @@ I graduated from the College of Computer and Communication Engineering of China 
 - 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript Stack.
-- 📫 How to reach me: me@upcwangying.com 
+- 📫 How to reach me: i@kimmy.me 
 - 💻 I have worked on C, Java, Python, HTML/CSS, Javascript, Vue, React, React Native, Flutter, Nodejs, MySQL, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:me@upcwangying.com?Subject=Hello%20Ying) 👨‍💻.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:i@kimmy.me?Subject=Hello%20Kimmy) 👨‍💻.
 
 ### Most Used Languages
 
