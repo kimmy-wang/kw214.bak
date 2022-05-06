@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=see" alt="see" /></a> </p>
 
+- 🔭 I’m currently working on [Pangu](https://github.com/see/pangu)
+
 - 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **i@kimmy.me**
