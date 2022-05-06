@@ -12,3 +12,5 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/see, https://medium.com/feed/@realkimmy"
+          committer_username: "see"
+          committer_email: "upcwangying@126.com"
