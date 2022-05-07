@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kimmy</h1>
 <h3 align="center">A frontend developer</h3>
 
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=realkimmy.realkimmy" alt="see" /> </p>
+<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=realkimmy.realkimmy" alt="see" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=see" alt="see" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 📫 How to reach me **i@kimmy.me**
+- 📫 How to reach me **hi@kimmy.me**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,9 +32,9 @@
 <p><a href="https://www.buymeacoffee.com/realkimmy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realkimmy" /></a></p><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=see&show_icons=true&locale=en&layout=compact" alt="see" /></p><br><br><br><br><br><br><br>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=see&show_icons=true&locale=en&layout=compact" alt="see" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=see&show_icons=true&locale=en" alt="see" /></p><br><br><br><br><br><br><br>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=see&show_icons=true&locale=en" alt="see" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=see&" alt="see" /></p><br>
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=see&" alt="see" /></p>
 
