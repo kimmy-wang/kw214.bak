@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kimmy</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/see/see/main/Hi.gif" width="30px">, I'm Kimmy</h1>
 <h3 align="center">A frontend developer</h3>
 
 <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=realkimmy.realkimmy" alt="see" /> </p>
@@ -32,9 +32,11 @@
 <p><a href="https://www.buymeacoffee.com/realkimmy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realkimmy" /></a></p><br><br><br>
 
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=see&show_icons=true&locale=en&layout=compact" alt="see" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=see&show_icons=true&locale=en&layout=compact" alt="see" />
+</p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=see&show_icons=true&locale=en" alt="see" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=see&show_icons=true&locale=en" alt="see" /></p>
 
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=see&" alt="see" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=see&" alt="see" /></p>
 
