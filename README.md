@@ -44,7 +44,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=see&show_icons=true&locale=en&layout=compact" alt="see" />
+  <img src="https://raw.githubusercontent.com/see/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/see/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=see&show_icons=true&locale=en" alt="see" /></p>
