@@ -42,13 +42,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/realkimmy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realkimmy" /></a></p><br><br><br>
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/see/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/see/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+  <a href="https://github.com/see/github-stats">
+    <img src="https://github.com/see/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+  </a>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=see&show_icons=true&locale=en" alt="see" /></p>
