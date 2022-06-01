@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/see/see/main/Hi.gif" width="30px">, I'm Kimmy</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/see/see/main/Hi.gif" width="30">, I'm Kimmy</h1>
 <h3 align="center">A frontend developer</h3>
 
 <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=realkimmy.realkimmy" alt="see" /> </p>
