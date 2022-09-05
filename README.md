@@ -15,8 +15,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [测试标题](https://kimmy214.medium.com/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%98-a506b4b03252?source=rss-3d8b21715afc------2)
-- [Test](https://kimmy214.medium.com/test-37857b17d293?source=rss-3d8b21715afc------2)
 - [test](https://dev.to/see/test-13i1)
 <!-- BLOG-POST-LIST:END -->
 
