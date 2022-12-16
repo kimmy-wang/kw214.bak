@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kimmy214/kimmy214/main/Hi.gif" width="30">, I'm Kimmy</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kw214/kw214/main/Hi.gif" width="30">, I'm Kimmy</h1>
 <h3 align="center">A frontend developer</h3>
 
 <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=realkimmy.realkimmy" alt="see" /> </p>
 
 <!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimmy214" alt="see" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kw214" alt="see" /></a> </p>
 
 
 - 🔭 I’m currently working on [Pangu](https://github.com/alisoft/pangu) & [Bootstrap Vue Plus](https://github.com/bootstrap-vue-plus)
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/see" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="see" height="30" width="40" /></a>
-<a href="https://medium.com/@kimmy214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realkimmy" height="30" width="40" /></a>
+<a href="https://medium.com/@kw214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realkimmy" height="30" width="40" /></a>
 </p>
 
 
@@ -30,13 +30,13 @@
 
 <p align="center">
   <a href="https://github.com/see/github-stats">
-    <img src="https://github.com/kimmy214/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+    <img src="https://github.com/kw214/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
   </a>
 </p>
 -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kimmy214&show_icons=true&locale=en" alt="kimmy214" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kw214&show_icons=true&locale=en" alt="kw214" /></p>
 
 <!--
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kimmy214&" alt="kimmy214" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kw214&" alt="kw214" /></p>
 -->
