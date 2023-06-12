@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kw214/kw214/main/Hi.gif" width="30">, I'm Kimmy</h1>
 <h3 align="center">A frontend developer</h3>
 
-<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=realkimmy.realkimmy" alt="kw214" /> </p>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=realkimmy.realkimmy" alt="kw214" /> </p>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kw214" alt="kw214" /></a> </p>
